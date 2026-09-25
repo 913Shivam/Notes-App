@@ -1,0 +1,248 @@
+
+
+<!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240">
+  <image
+    href="https://cdn.prod.website-files.com/5fbd1db742049466ddc07793/6278f6f9f697b94992c6576b_undraw_add_files_re_v09g.svg"
+    width="320"
+    height="240"
+  />
+</svg> -->
+
+<svg
+  width="782.04441"
+  height="701.88002"
+  viewBox="0 0 665 465"
+  xmlns="http://www.w3.org/2000/svg"
+>
+
+  <!-- BACK CARD -->
+  <g transform="rotate(-15 230 220)" opacity="0.65">
+
+    <!-- Back card -->
+    <rect
+      x="95"
+      y="75"
+      width="280"
+      height="300"
+      rx="22"
+      fill="#ffffff"
+      stroke="#e5e5e5"
+      stroke-width="5"
+    />
+
+    <!-- Back list item 1 -->
+    <rect
+      x="135"
+      y="125"
+      width="42"
+      height="42"
+      rx="2"
+      fill="#dddddd"
+    />
+
+    <rect
+      x="195"
+      y="132"
+      width="135"
+      height="9"
+      rx="5"
+      fill="#dddddd"
+    />
+
+    <rect
+      x="195"
+      y="150"
+      width="105"
+      height="9"
+      rx="5"
+      fill="#dddddd"
+    />
+
+    <!-- Back list item 2 -->
+    <rect
+      x="135"
+      y="195"
+      width="42"
+      height="42"
+      rx="2"
+      fill="#dddddd"
+    />
+
+    <rect
+      x="195"
+      y="202"
+      width="135"
+      height="9"
+      rx="5"
+      fill="#dddddd"
+    />
+
+    <rect
+      x="195"
+      y="220"
+      width="105"
+      height="9"
+      rx="5"
+      fill="#dddddd"
+    />
+
+    <!-- Back list item 3 -->
+    <rect
+      x="135"
+      y="265"
+      width="42"
+      height="42"
+      rx="2"
+      fill="#dddddd"
+    />
+
+    <rect
+      x="195"
+      y="272"
+      width="135"
+      height="9"
+      rx="5"
+      fill="#dddddd"
+    />
+
+    <rect
+      x="195"
+      y="290"
+      width="105"
+      height="9"
+      rx="5"
+      fill="#dddddd"
+    />
+
+  </g>
+
+
+  <!-- FRONT CARD -->
+  <rect
+    x="198"
+    y="119"
+    width="248"
+    height="280"
+    rx="22"
+    fill="#ffffff"
+    stroke="#dddddd"
+    stroke-width="6"
+  />
+
+
+  <!-- BLACK IMAGE / PROFILE BOX -->
+  <rect
+    x="231"
+    y="156"
+    width="73"
+    height="57"
+    rx="2"
+    fill="#000000"
+  />
+
+  <!-- FIRST TEXT -->
+  <rect
+    x="315"
+    y="173"
+    width="82"
+    height="8"
+    rx="4"
+    fill="#cfcfcf"
+  />
+
+  <rect
+    x="315"
+    y="189"
+    width="100"
+    height="8"
+    rx="4"
+    fill="#cfcfcf"
+  />
+
+
+  <!-- LIST ITEM 1 -->
+  <rect
+    x="231"
+    y="238"
+    width="40"
+    height="36"
+    rx="2"
+    fill="#e2e2e2"
+  />
+
+  <rect
+    x="287"
+    y="245"
+    width="110"
+    height="8"
+    rx="4"
+    fill="#d9d9d9"
+  />
+
+  <rect
+    x="287"
+    y="261"
+    width="128"
+    height="8"
+    rx="4"
+    fill="#d9d9d9"
+  />
+
+
+  <!-- LIST ITEM 2 -->
+  <rect
+    x="231"
+    y="302"
+    width="40"
+    height="36"
+    rx="2"
+    fill="#e2e2e2"
+  />
+
+  <rect
+    x="287"
+    y="309"
+    width="110"
+    height="8"
+    rx="4"
+    fill="#d9d9d9"
+  />
+
+  <rect
+    x="287"
+    y="325"
+    width="128"
+    height="8"
+    rx="4"
+    fill="#d9d9d9"
+  />
+
+
+  <!-- PLUS BUTTON -->
+  <circle
+    cx="444"
+    cy="383"
+    r="47"
+    fill="#000000"
+  />
+
+  <!-- PLUS -->
+  <rect
+    x="418"
+    y="375"
+    width="52"
+    height="16"
+    rx="8"
+    fill="#ffffff"
+  />
+
+  <rect
+    x="436"
+    y="357"
+    width="16"
+    height="52"
+    rx="8"
+    fill="#ffffff"
+  />
+
+</svg>
