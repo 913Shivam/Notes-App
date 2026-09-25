@@ -1,0 +1,106 @@
+
+
+<!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240">
+  <image
+    href="https://nordicbaltic.institute/_next/static/media/no-data.4dcc7f85.svg"
+    width="320"
+    height="240"
+  />
+</svg> -->
+
+
+<svg
+  width="782.04441"
+  height="701.88002"
+  viewBox="0 0 665 465"
+  xmlns="http://www.w3.org/2000/svg"
+>
+
+  <!-- BACK PAPER -->
+  <g transform="rotate(-16 235 220)">
+    <rect
+      x="105"
+      y="55"
+      width="290"
+      height="335"
+      rx="12"
+      fill="#ffffff"
+      stroke="#888888"
+      stroke-width="2"
+    />
+
+    <!-- Light shadow / inner paper -->
+    <rect
+      x="120"
+      y="75"
+      width="260"
+      height="295"
+      rx="4"
+      fill="#f7f7f7"
+    />
+
+    <!-- Back clip -->
+    <rect
+      x="170"
+      y="38"
+      width="145"
+      height="55"
+      rx="7"
+      fill="#000000"
+    />
+
+    <!-- Back ring -->
+    <circle
+      cx="242.5"
+      cy="30"
+      r="11"
+      fill="#ffffff"
+      stroke="#000000"
+      stroke-width="5"
+    />
+  </g>
+
+
+  <!-- FRONT PAPER -->
+  <rect
+    x="235"
+    y="118"
+    width="293"
+    height="334"
+    rx="12"
+    fill="#ffffff"
+    stroke="#888888"
+    stroke-width="2"
+  />
+
+  <!-- Front paper inner area -->
+  <rect
+    x="258"
+    y="132"
+    width="246"
+    height="286"
+    rx="3"
+    fill="#e8e8e8"
+  />
+
+  <!-- Front clip -->
+  <rect
+    x="312"
+    y="106"
+    width="140"
+    height="43"
+    rx="6"
+    fill="#000000"
+  />
+
+  <!-- Front ring -->
+  <circle
+    cx="382"
+    cy="94"
+    r="11"
+    fill="#ffffff"
+    stroke="#000000"
+    stroke-width="5"
+  />
+
+</svg>
